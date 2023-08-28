@@ -1,6 +1,6 @@
 class variables
 {
-    public static void main(String arsg[])
+    public static void main(String args[])
     {
         int num1 = 5;
         int num2 = 3;
